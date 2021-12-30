@@ -1,4 +1,4 @@
-//META{"name":"openthemlinks","website":"https://github.com/ItsFlorin/stuff","source":"https://github.com/Metalloriff/BetterDiscordPlugins/blob/master/OpenLinksInDiscord.plugin.js"}*//
+//META{"name":"openthemlinks","website":"https://github.com/ItsFlorin/stuff","source":"https://github.com/ItsFlorin/stuff/commit/a3564d72d663450797c12e746ec20b8bfca1e514"}*//
 class openthemlinks {
 	
     getName() { return "openthemlinks"; }
